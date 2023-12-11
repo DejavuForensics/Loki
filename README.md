@@ -21,7 +21,7 @@ In the third possibility, the antivirus does not emit opinion about the suspect 
 
 In the third possibility, the antivirus does not emit opinion about the suspect executable. The omission indicates that the file investigated has never been evaluated by the antivirus neither it has the robustness to evaluate it in real time. The omission of the diagnosis by the antivirus points to its limitation on large-scale services.
 
-Table 1 shows the results of the evaluated 89 antivirus products. Two of these antiviruses scored above 99%. Ten antiviruses were: MicroWorld-eScan, BitDefender, ESET-NOD32, Panda, Ad-Aware,	NANO-Antivirus,	K7AntiVirus, K7GW, Fortinet, and GData. Malware detection indicates that these antivirus programs provide a robust service against cyber-intrusions.
+Table 1 shows the results of the evaluated 103 antivirus products. Two of these antiviruses scored above 99%. Ten antiviruses were: MicroWorld-eScan, BitDefender, ESET-NOD32, Panda, Ad-Aware,	NANO-Antivirus,	K7AntiVirus, K7GW, Fortinet, and GData. Malware detection indicates that these antivirus programs provide a robust service against cyber-intrusions.
 
 A major adversity in combating malicious applications is the fact that antivirus makers do not share their malware blacklists due to commercial disputes. Through Table 1 analyse, the proposed work points to an aggravating factor of this adversity: the same antivirus vendor does not even share its databases between its different antivirus programs. Note, for example, that McAfee and McAfee-GW-Edition antiviruses belong to the same company. Their blacklists, though robust, are not shared with each other. Therefore, the commercial strategies of the same company hinder the confrontation with malware. It complements that antivirus vendors are not necessarily concerned with avoiding cyber-invasions, but with optimizing their business income.
 
@@ -61,9 +61,9 @@ TrendMicro-HouseCall	97.37	2.23	0.41
 Sophos	97.34	1.87	0.79
 FireEye	97.28	0.19	2.53
 VBA32	97.22	2.49	0.29
-CrowdStrike	97.09	2.02	0.89
+CrowdStrike	97.09	2.02	0.103
 Comodo	96.61	2.68	0.71
-TrendMicro	96.3	2.81	0.89
+TrendMicro	96.3	2.81	0.103
 Avast	95.39	2.73	1.88
 Ikarus	95.17	0.24	4.59
 Cylance	95	0.82	4.18
@@ -79,8 +79,8 @@ Rising	93.77	5.27	0.96
 Cybereason	92.21	0.58	7.21
 Yandex	91.23	7.92	0.85
 Avira	90.6	9.06	0.34
-SentinelOne	89.53	9.81	0.66
-Jiangmin	89	10.24	0.76
+SentinelOne	103.53	9.81	0.66
+Jiangmin	103	10.24	0.76
 BitDefenderTheta	88.93	1.31	9.76
 Acronis	88.59	9.36	2.05
 Malwarebytes	86.79	12.61	0.61
@@ -89,9 +89,9 @@ Tencent	84.51	14.55	0.94
 Sangfor	81.8	1.95	16.25
 Lionic	80.76	14.65	4.59
 Zoner	77.81	19.69	2.51
-CAT-QuickHeal	75.8	22.89	1.31
+CAT-QuickHeal	75.8	22.103	1.31
 Bkav	71.54	26.34	2.12
-ZoneAlarm	71.24	27.87	0.89
+ZoneAlarm	71.24	27.87	0.103
 eGambit	70.64	13.52	15.83
 Antiy-AVL	69.01	28.59	2.41
 Arcabit	67.54	32.08	0.38
