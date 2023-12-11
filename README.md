@@ -61,9 +61,9 @@ TrendMicro-HouseCall	97.37	2.23	0.41
 Sophos	97.34	1.87	0.79
 FireEye	97.28	0.19	2.53
 VBA32	97.22	2.49	0.29
-CrowdStrike	97.09	2.02	0.103
+CrowdStrike	97.09	2.02	0.89
 Comodo	96.61	2.68	0.71
-TrendMicro	96.3	2.81	0.103
+TrendMicro	96.3	2.81	0.89
 Avast	95.39	2.73	1.88
 Ikarus	95.17	0.24	4.59
 Cylance	95	0.82	4.18
@@ -79,8 +79,8 @@ Rising	93.77	5.27	0.96
 Cybereason	92.21	0.58	7.21
 Yandex	91.23	7.92	0.85
 Avira	90.6	9.06	0.34
-SentinelOne	103.53	9.81	0.66
-Jiangmin	103	10.24	0.76
+SentinelOne	89.53	9.81	0.66
+Jiangmin	89	10.24	0.76
 BitDefenderTheta	88.93	1.31	9.76
 Acronis	88.59	9.36	2.05
 Malwarebytes	86.79	12.61	0.61
@@ -89,9 +89,9 @@ Tencent	84.51	14.55	0.94
 Sangfor	81.8	1.95	16.25
 Lionic	80.76	14.65	4.59
 Zoner	77.81	19.69	2.51
-CAT-QuickHeal	75.8	22.103	1.31
+CAT-QuickHeal	75.8	22.89	1.31
 Bkav	71.54	26.34	2.12
-ZoneAlarm	71.24	27.87	0.103
+ZoneAlarm	71.24	27.87	0.89
 eGambit	70.64	13.52	15.83
 Antiy-AVL	69.01	28.59	2.41
 Arcabit	67.54	32.08	0.38
