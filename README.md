@@ -145,7 +145,7 @@ Babable              | 0      % | 1.33   % | 98.67  % |
 
 ###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
+Antivírus | VirusShare_0001b40033610bfa72cd100da1b7da2a | VirusShare_00019ab06b14dbd9032a6c959fe5fe24 | VirusShare_00009498f07e2dc9534c088f123e325e
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
 Bkav | W32.AIDetect.malware1 | W32.AIDetect.malware1 | W32.AIDetect.malware1 |
 Lionic | Trojan.Win32.Ekstak.4!c | Trojan.Win32.Ekstak.4!c | Trojan.Win32.Ekstak.4!c |
