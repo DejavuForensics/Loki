@@ -168,47 +168,47 @@ Symantec | Trojan.Zekapab!g1 | Trojan.Zekapab!g1 | - |
 ESET-NOD32 | Win32/PSW.Fareit.A | Win32/PSW.Fareit.A | Win32/PSW.Fareit.A |
 APEX | Malicious | Malicious | Malicious |
 Avast | Sf:Crypt-AS [Trj] | Sf:Crypt-AS [Trj] | Sf:Crypt-AS [Trj] |
-ClamAV | Win.Trojan.PonyStealer-9831667-0 | None | Win.Trojan.PonyStealer-9831667-0 |
+ClamAV | Win.Trojan.PonyStealer-9831667-0 | False Negative | Win.Trojan.PonyStealer-9831667-0 |
 Kaspersky | HEUR:Trojan.Win32.Ekstak.gen | HEUR:Trojan.Win32.Ekstak.gen | HEUR:Trojan.Win32.Ekstak.gen |
 BitDefender | Trojan.Agent.CRCF | Trojan.Agent.CRCF | Trojan.Agent.CRCF |
 NANO-Antivirus | Trojan.Win32.Stealer.evlqpt | Trojan.Win32.Stealer.evlqpt | - |
-SUPERAntiSpyware | None | None | None |
-Rising | Stealer.Fareit!1.B777 (CLASSIC) | None | Stealer.Fareit!1.B777 (CLASSIC) |
+SUPERAntiSpyware | False Negative | False Negative | False Negative |
+Rising | Stealer.Fareit!1.B777 (CLASSIC) | False Negative | Stealer.Fareit!1.B777 (CLASSIC) |
 Ad-Aware | Trojan.Agent.CRCF | Trojan.Agent.CRCF | Trojan.Agent.CRCF |
 TACHYON | Trojan/W32.DP-Agent.2261177 | Trojan/W32.DP-Agent.2260975 | Trojan/W32.DP-Agent.2260999 |
 Sophos | Mal/Generic-R + Troj/Delf-GOP | Mal/Generic-R + Troj/Delf-GOP | Mal/Generic-R + Troj/Delf-GOP |
 Comodo | TrojWare.Win32.PWS.Fareit.DTXV@7g5m4s | TrojWare.Win32.PWS.Fareit.DTXV@7g5m4s | TrojWare.Win32.PWS.Fareit.DTXV@7g5m4s |
-F-Secure | None | Dropper.DR/Delphi.vmemv | None |
+F-Secure | False Negative | Dropper.DR/Delphi.vmemv | False Negative |
 DrWeb | Trojan.PWS.Stealer.18592 | Trojan.PWS.Stealer.18592 | Trojan.PWS.Stealer.18592 |
 Zillya | Trojan.Ekstak.Win32.3539 | Trojan.Ekstak.Win32.3539 | Trojan.Ekstak.Win32.3539 |
 TrendMicro | TSPY_HPLOKI.SM1 | TSPY_HPLOKI.SM1 | TSPY_HPLOKI.SM1 |
 McAfee-GW-Edition | BehavesLike.Win32.Generic.vh | BehavesLike.Win32.Generic.vh | BehavesLike.Win32.Generic.vh |
-CMC | None | None | None |
-Emsisoft | Trojan.Agent.CRCF (B) | None | Trojan.Agent.CRCF (B) |
+CMC | False Negative | False Negative | False Negative |
+Emsisoft | Trojan.Agent.CRCF (B) | False Negative | Trojan.Agent.CRCF (B) |
 Ikarus | Trojan.Win32.Injector | Trojan.Win32.Injector | - |
 GData | Trojan.Agent.CRCF | Trojan.Agent.CRCF | - |
 Jiangmin | AdWare.Generic.jzzv | AdWare.Generic.jzzv | AdWare.Generic.jzzv |
-Webroot | None | None | None |
-Avira | None | DR/Delphi.vmemv | DR/Delphi.jdnzf |
-Antiy-AVL | Trojan/Generic.ASMalwS.22D0D6F | None | - |
-Kingsoft | None | None | None |
+Webroot | False Negative | False Negative | False Negative |
+Avira | False Negative | DR/Delphi.vmemv | DR/Delphi.jdnzf |
+Antiy-AVL | Trojan/Generic.ASMalwS.22D0D6F | False Negative | - |
+Kingsoft | False Negative | False Negative | False Negative |
 Gridinsoft | Trojan.Win32.Injector.cc!s8 | Trojan.Win32.Injector.cc!s8 | Trojan.Win32.Injector.cc!s8 |
-Arcabit | None | Trojan.Agent.CRCF | None |
-ViRobot | None | None | None |
+Arcabit | False Negative | Trojan.Agent.CRCF | False Negative |
+ViRobot | False Negative | False Negative | False Negative |
 ZoneAlarm | Trojan.Win32.Picsys.gen | HEUR:Trojan.Win32.Ekstak.gen | Trojan.Win32.Picsys.gen |
-Microsoft | PWS:Win32/Fareit | None | PWS:Win32/Fareit |
+Microsoft | PWS:Win32/Fareit | False Negative | PWS:Win32/Fareit |
 Cynet | Malicious (score: 100) | Malicious (score: 100) | Malicious (score: 100) |
 AhnLab-V3 | Trojan/Win32.Ekstak.R214290 | Trojan/Win32.Ekstak.R214290 | Trojan/Win32.Ekstak.R214290 |
 Acronis | suspicious | suspicious | suspicious |
 BitDefenderTheta | AI:Packer.80FC6CB421 | AI:Packer.80FC6CB421 | - |
 ALYac | Trojan.Agent.CRCF | Trojan.Agent.CRCF | Trojan.Agent.CRCF |
 MAX | malware (ai score=100) | malware (ai score=100) | malware (ai score=100) |
-VBA32 | Trojan.Ekstak | None | BScope.Backdoor.Comet |
+VBA32 | Trojan.Ekstak | False Negative | BScope.Backdoor.Comet |
 Malwarebytes | Pony.Spyware.Stealer.DDS | Pony.Spyware.Stealer.DDS | Pony.Spyware.Stealer.DDS |
 Zoner | Trojan.Win32.63506 | Trojan.Win32.63506 | Trojan.Win32.63506 |
 TrendMicro-HouseCall | TSPY_HPLOKI.SM1 | TSPY_HPLOKI.SM1 | TSPY_HPLOKI.SM1 |
 Tencent | Malware.Win32.Gencirc.10b3ac7e | Malware.Win32.Gencirc.10b3ac7e | Malware.Win32.Gencirc.10b3ac7e |
-Yandex | None | Trojan.GenAsa!dxedANOL6Yg | Trojan.GenAsa!dxedANOL6Yg |
+Yandex | False Negative | Trojan.GenAsa!dxedANOL6Yg | Trojan.GenAsa!dxedANOL6Yg |
 SentinelOne | Static AI - Malicious PE | Static AI - Malicious PE | Static AI - Malicious PE |
 eGambit | Unsafe.AI_Score_100% | Unsafe.AI_Score_100% | Unsafe.AI_Score_100% |
 Fortinet | W32/GenKryptik.EKLE!tr | W32/GenKryptik.EKLE!tr | W32/GenKryptik.EKLE!tr |
@@ -216,8 +216,8 @@ MaxSecure | Trojan.Malware.300983.susgen | Trojan.Malware.121218.susgen | Trojan
 AVG | Sf:Crypt-AS [Trj] | Sf:Crypt-AS [Trj] | Sf:Crypt-AS [Trj] |
 Panda | Trj/Genetic.gen | Trj/Genetic.gen | Trj/Genetic.gen |
 CrowdStrike | win/malicious_confidence_100% (W) | win/malicious_confidence_100% (W) | win/malicious_confidence_100% (W) |
-Qihoo-360 | None | None | None |
-Babable | None | - | - |
+Qihoo-360 | False Negative | False Negative | False Negative |
+Babable | False Negative | - | - |
 F-Prot | W32/Injector.GBX | - | - |
 
 
